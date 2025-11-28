@@ -310,7 +310,7 @@ npm run test:e2e
 <table>
 <tr>
 <td align="center">
-<b>Your Name</b><br/>
+<b>SATHISH RAJ</b><br/>
 <sub>Full Stack Developer</sub>
 </td>
 </tr>
